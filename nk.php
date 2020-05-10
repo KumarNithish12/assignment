@@ -1,8 +1,8 @@
 <?php
 
-print 'Hello' ;
-print 'Nithish' ;
-print 'Kumar' ;
-print 'Aishwarya' ;
+print 'Hello';
+print 'Nithish';
+print 'Kumar';
+print 'Aishwarya';
 
 ?>
